@@ -3,7 +3,8 @@
 🚀 Project Overview
 This project predicts customer churn using a deep learning model built with TensorFlow & Keras. It analyzes customer data, applies feature engineering, and trains a neural network to classify whether a customer is likely to leave the bank.
 
-🔥 Key Features
+🔥 Key Features:
+
 ✔️ Data preprocessing & feature scaling
 
 ✔️ Label encoding for categorical features (Geography, Gender)
