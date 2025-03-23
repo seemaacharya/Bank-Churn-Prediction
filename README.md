@@ -5,15 +5,22 @@ This project predicts customer churn using a deep learning model built with Tens
 
 🔥 Key Features
 ✔️ Data preprocessing & feature scaling
+
 ✔️ Label encoding for categorical features (Geography, Gender)
+
 ✔️ Neural Network (Dense layers with ReLU & Sigmoid activations)
+
 ✔️ Model training & evaluation with accuracy metrics
+
 ✔️ Saves trained model using Pickle for deployment
 
 🛠️ Tech Stack
 🔹 Python
+
 🔹 Pandas, NumPy (Data Processing)
+
 🔹 TensorFlow, Keras (Deep Learning)
+
 🔹 Scikit-learn (Preprocessing & Model Evaluation)
 
 ⚡ Quick Setup
