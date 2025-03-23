@@ -1,6 +1,7 @@
 ## 🏦 Bank Churn Prediction – Deep Learning Model
 
-🚀 Project Overview
+🚀 Project Overview:
+
 This project predicts customer churn using a deep learning model built with TensorFlow & Keras. It analyzes customer data, applies feature engineering, and trains a neural network to classify whether a customer is likely to leave the bank.
 
 🔥 Key Features:
@@ -15,7 +16,8 @@ This project predicts customer churn using a deep learning model built with Tens
 
 ✔️ Saves trained model using Pickle for deployment
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
 🔹 Python
 
 🔹 Pandas, NumPy (Data Processing)
@@ -24,7 +26,8 @@ This project predicts customer churn using a deep learning model built with Tens
 
 🔹 Scikit-learn (Preprocessing & Model Evaluation)
 
-⚡ Quick Setup
+⚡ Quick Setup:
+
 1️⃣ Install dependencies:
 
 ![image](https://github.com/user-attachments/assets/58101190-92d5-42d5-b8f2-c3640e0b761d)
@@ -39,7 +42,8 @@ This project predicts customer churn using a deep learning model built with Tens
 ![image](https://github.com/user-attachments/assets/130ec209-f25c-4753-a265-d21b4d40ecd7)
 
 
-📊 Model Performance
+📊 Model Performance:
+
 Trained on real customer data
 
 Uses Adam optimizer & binary cross-entropy loss
